@@ -8,6 +8,9 @@
       <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
       <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
       <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
       <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
