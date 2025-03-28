@@ -1,22 +1,27 @@
-## Oii! Eu sou a Manu, 😍
-  <div> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ma2903&show_icons=true&theme=tokyonight"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma2903&layout=compact&langs_count=16&theme=tokyonight"/>
-  </div>
-  <div>
-    <h2>Linguagens/Ferramentas Conhecidas:</h3>
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <h2>Linguagens/Ferramentas que ja pesquisei:</h3>
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  </div>
+# 👋 Olá, eu sou a Manu! 
+
+💻 Desenvolvedora focado em aplicações front-end e apaixonada por tecnologia.
+
+## 🚀 Sobre mim
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 📌 Interesse especial em Design e Programação Web.
+- 🛠️ Trabalhando atualmente em um **Anuário Digital**
+
+## 🔧 Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 📌 Projetos em Destaque
+- [📚 APAE
+- [💰 DataStruct School
+- [📘 Food and Pyhsical Health
+
+## 📊 Estatísticas do GitHub
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Ma2903&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma2903&layout=compact&theme=dracula)
+
+## 📬 Contato
+📧 [E-mail](mailto:manoelaps2022@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/manoela-p-44aa75259/) | 🖥️ [Portfólio](https://ma2903.github.io)
