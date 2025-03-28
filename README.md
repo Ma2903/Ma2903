@@ -15,7 +15,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
