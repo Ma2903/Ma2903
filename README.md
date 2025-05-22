@@ -24,6 +24,7 @@
 - [📚 APAE](https://github.com/Ma2903/APAE)
 - [💰 DataStruct School](https://github.com/JP1005YT/EstruturaDeDados)
 - [📘 Food and Physical Health](https://github.com/JP1005YT/TCC-DS)
+- [💻 Bingo-game](https://github.com/Ma2903/bingo-game)
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Ma2903&show_icons=true&theme=dracula)
