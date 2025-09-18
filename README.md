@@ -45,16 +45,16 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 Aqui estão alguns projetos que desenvolvi para aplicar e aprimorar minhas habilidades.
 
 - **[♻️ Med Resíduos](https://github.com/Ma2903/MedResiduos)**: Plataforma para o gerenciamento e descarte de resíduos hospitalares, conectando unidades de saúde a empresas de coleta especializadas.
-  - *Tecnologias: PHP, SQL, JavaScript, HTML, CSS.*
+  - *Tecnologias: NODE.JS, SQL, JavaScript, HTML, CSS.*
 
 - **[📚 APAE](https://github.com/Ma2903/APAE)**: Website institucional e informativo para a APAE, com funcionalidades para doações, criado para fortalecer a presença digital da instituição.
-  - *Tecnologias: Vue.js, JavaScript, HTML, CSS.*
+  - *Tecnologias: PHP, JavaScript, SQL, HTML, CSS.*
 
 - **[💰 DataStruct School](https://github.com/JP1005YT/EstruturaDeDados)**: Aplicação educacional e interativa para visualizar e aprender sobre Estrutura de Dados de forma prática.
-  - *Tecnologias: HTML, CSS, JavaScript.*
+  - *Tecnologias: PHP, HTML, CSS, JavaScript.*
 
 - **[📘 Food and Physical Health](https://github.com/JP1005YT/TCC-DS)**: Projeto de TCC sobre a relação entre alimentação e saúde, incluindo artigos informativos e uma calculadora de IMC.
-  - *Tecnologias: PHP, SQL, JavaScript, HTML, CSS.*
+  - *Tecnologias: NODE.JS, SQL, JavaScript, HTML, CSS.*
 
 - **[💻 Bingo-game](https://github.com/Ma2903/bingo-game)**: Jogo de bingo interativo desenvolvido com JavaScript puro para praticar a manipulação de elementos da página (DOM).
   - *Tecnologias: HTML, CSS, JavaScript.*
