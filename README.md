@@ -8,7 +8,7 @@ Sou uma desenvolvedora com foco em criar **aplicações web interativas** e **vi
 
 ## 💡 Sobre Mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Explorando a fundo o universo do **Design de Interfaces (UI)** e **Experiência do Usuário (UX)**.
 - 🛠️ Atualmente trabalhando no **Devlooks**, um e-commerce para devs, aprimorando minhas habilidades com **Vue.js** e **MongoDB**.
 - 🚀 Buscando oportunidades desafiadoras para colaborar em projetos inovadores e fazer a diferença através do código.
