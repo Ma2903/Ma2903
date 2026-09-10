@@ -44,19 +44,19 @@ Plataforma para gerenciamento de resíduos hospitalares.
 
 **Tecnologias:** Node.js • JavaScript • SQL • HTML • CSS
 
-[Ver projeto](...)
+[Ver projeto](https://github.com/Ma2903/MedResiduos)
 
 ### ♿ APAE
 Website institucional com foco em acessibilidade e presença digital.
 
 **Tecnologias:** PHP • JavaScript • SQL • HTML • CSS
 
-[Ver projeto](...)
+[Ver projeto](https://github.com/Ma2903/APAE)
 
 ### 📖 Anuário
 Projeto autoral desenvolvido para registrar e reunir a trajetória acadêmica da turma.
 
-[Ver projeto](...)
+[Ver projeto](https://anuario-ams-2025.vercel.app/)
 
 ---
 
